@@ -57,7 +57,7 @@ The Arduino `.ino` file is provided in the `Code/` folder.
 1. Install Arduino IDE.  
 2. Add ESP8266 board package.  
 3. Install **Sinric Pro Arduino Library**.  
-4. Open `Code/HomeAutomation.ino`.  
+4. Open `Code/Home_Automation_ESP8266_SinricPro_v3.5_Fixed.ino`.  
 5. Enter your Wi-Fi and Sinric Pro credentials.  
 6. Upload to NodeMCU.  
 7. Test via Google Assistant, Sinric App, or buttons.  
@@ -66,9 +66,9 @@ The Arduino `.ino` file is provided in the `Code/` folder.
 
 ## 📂 Repository Structure  
 ```
-Home_Automation_ESP8266/
+Home_Automation_ESP8266_SinricPro_v3.5_Fixed/
 │── Code/
-│    └── HomeAutomation.ino
+│    └── Home_Automation_ESP8266_SinricPro_v3.5_Fixed.ino
 │── Circuit/
 │    └── Circuit_Diagram.png   (to be added)
 │── Report/
