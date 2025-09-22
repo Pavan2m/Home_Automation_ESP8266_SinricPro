@@ -70,7 +70,7 @@ Home_Automation_ESP8266_SinricPro_v3.5_Fixed/
 │── Code/
 │    └── Home_Automation_ESP8266_SinricPro_v3.5_Fixed.ino
 │── Circuit/
-│    └── Circuit_Diagram.png   (to be added)
+│    └── Circuit_Diagram.png   
 │── Report/
 │    └── Project_Report.pdf    (to be added)
 │── Media/
